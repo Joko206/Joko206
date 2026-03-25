@@ -1,203 +1,203 @@
-<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Joko%20Suprianto&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20|%20Mobile%20Developer%20|%20Tech%20Enthusiast&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
-</div>
 
-<!-- Typing SVG -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Mahasiswa+Teknik+Informatika+UIN+SUSKA+Riau;Building+Digital+Solutions+for+Tomorrow;Passionate+About+Code+%26+Innovation+💡" alt="Typing SVG" />
-  </a>
+<!-- Animated Matrix Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=JOKO%20SUPRIANTO&fontSize=70&fontColor=00ff41&animation=twinkling&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20⚡%20Mobile%20Engineer%20⚡%20Tech%20Explorer&descSize=18&descColor=00ff41&descAlignY=62" width="100%" />
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%E2%9C%A8+Welcome+to+my+Digital+Universe+%E2%9C%A8;%F0%9F%8E%93+Teknik+Informatika+%7C+UIN+SUSKA+Riau;%F0%9F%92%BB+Turning+Ideas+into+Reality+Since+Day+1;%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+</a>
+
+<br>
+
+<!-- Dynamic Badges -->
+<a href="https://github.com/Joko206"><img src="https://img.shields.io/badge/⚡_STATUS-AVAILABLE_FOR_HIRE-00ff41?style=for-the-badge&labelColor=0d1117" /></a>
+<img src="https://komarev.com/ghpvc/?username=Joko206&label=VISITORS&color=00ff41&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+<a href="https://github.com/Joko206?tab=followers"><img src="https://img.shields.io/github/followers/Joko206?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github" alt="Followers"/></a>
+<a href="https://github.com/Joko206?tab=stars"><img src="https://img.shields.io/github/stars/Joko206?label=STARS&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github" alt="Stars"/></a>
+
 </div>
 
 <br>
 
-<!-- Profile Views & Social Badges -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Joko206&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/Joko206?tab=followers">
-    <img src="https://img.shields.io/github/followers/Joko206?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/Joko206?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-39+-blue?style=for-the-badge&logo=github" alt="Repos"/>
-  </a>
-</div>
+<!-- About Me Terminal -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;`> whoami`
 
-<br>
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<!-- About Me Section -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me
-
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-```yaml
-name: Joko Suprianto
-username: Joko206
-location: Pekanbaru, Riau 🇮🇩
-education: Teknik Informatika - UIN SUSKA Riau
-role: Full Stack & Mobile Developer
-currently_learning: ["Go", "React", "Cloud Computing"]
-interests: ["Web Dev", "Mobile App", "Pattern Recognition", "AI"]
-fun_fact: "I turn ☕ into <code/>"
+```js
+const joko = {
+  fullName: "Joko Suprianto",
+  username: "Joko206",
+  location: "📍 Pekanbaru, Riau 🇮🇩",
+  education: {
+    university: "UIN Sultan Syarif Kasim Riau",
+    major: "Teknik Informatika",
+    degree: "S1 (Bachelor)"
+  },
+  roles: ["Full Stack Developer", "Mobile Developer"],
+  currentFocus: "Building scalable web & mobile apps",
+  lifePhilosophy: "Code. Debug. Coffee. Repeat. ☕"
+};
 ```
 
 <br>
 
-- 🔭 Currently working on **Full Stack Web & Mobile Projects**
-- 🌱 Learning **Golang, React.js, & Cloud Technologies**
-- 💡 Interested in **AI, Pattern Recognition & Islamic Tech**
-- 🤝 Open to collaborate on **Open Source Projects**
-- 📫 Reach me on **[GitHub](https://github.com/Joko206)**
+🔥 **Passionate about** creating impactful digital solutions
+
+🎯 **Currently focused** on Full Stack & Mobile Development
+
+🌍 **Open to** collaborating on open source projects
+
+📚 **Always learning** new technologies & frameworks
+
+💡 **Fun fact:** I write code even in my dreams
 
 <br clear="both">
 
 ---
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack & Tools
+<!-- Tech Stack with Animated Icons -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;`> tech --stack`
 
 <div align="center">
 
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+### ⚡ Languages
 
-### 🚀 Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+<a href="#"><img src="https://skillicons.dev/icons?i=java,go,js,ts,php,python,dart,html,css&theme=dark&perline=9" /></a>
 
-### 🗄️ Databases & Tools
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+### 🔮 Frameworks & Libraries
+
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,laravel,flutter,nodejs,express,tailwind,bootstrap&theme=dark&perline=8" /></a>
+
+### 🗃️ Databases & Cloud
+
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb,redis,supabase&theme=dark&perline=6" /></a>
+
+### 🛠️ DevOps & Tools
+
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,vercel&theme=dark&perline=8" /></a>
 
 </div>
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
+<!-- GitHub Stats Section -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;`> git stats`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Joko206&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Joko206&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joko206&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</div>
+<!-- Stats Cards Row -->
+<a href="https://github.com/Joko206">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joko206&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/Joko206">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joko206&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=10" />
+</a>
 
----
+<br><br>
 
-<!-- GitHub Trophy -->
-## 🏆 GitHub Trophies
+<!-- Streak Stats -->
+<a href="https://github.com/Joko206">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joko206&theme=dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" width="60%" />
+</a>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Joko206&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ---
 
 <!-- Activity Graph -->
-## 📈 Contribution Graph
+## <img src="https://media.giphy.com/media/W5eoZHPrUx2OfkGREB/giphy.gif" width="25"> &nbsp;`> git log --graph`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joko206&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joko206&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4130&hide_border=true&custom_title=🟢%20Joko's%20Contribution%20Graph" width="100%" alt="Contribution Graph" />
+</div>
+
+---
+
+<!-- Profile Summary Cards -->
+## 📊 `> analytics --detailed`
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joko206&theme=github_dark" width="100%" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joko206&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joko206&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joko206&theme=github_dark&utcOffset=7" width="32%" />
+</div>
+
+---
+
+<!-- Trophy Section -->
+## 🏆 `> achievements --list`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Joko206&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 ---
 
 <!-- Featured Projects -->
-## 🌟 Featured Projects
+## 🚀 `> ls ./projects --featured`
 
 <div align="center">
-  <a href="https://github.com/Joko206/Qur-an-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joko206&repo=Qur-an-App&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/Joko206/brainquizz1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joko206&repo=brainquizz1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/Joko206/desa_sungai_meranti">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joko206&repo=desa_sungai_meranti&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/Joko206/PENGENALAN_POLA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joko206&repo=PENGENALAN_POLA&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/Joko206/learn-golang">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joko206&repo=learn-golang&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/Joko206/UAS_PWEB1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joko206&repo=UAS_PWEB1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
+
+<a href="https://github.com/Joko206/Qur-an-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joko206&repo=Qur-an-App&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Joko206/brainquizz1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joko206&repo=brainquizz1&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Joko206/desa_sungai_meranti">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joko206&repo=desa_sungai_meranti&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Joko206/PENGENALAN_POLA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joko206&repo=PENGENALAN_POLA&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Joko206/learn-golang">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joko206&repo=learn-golang&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Joko206/UAS_PWEB1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joko206&repo=UAS_PWEB1&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+</a>
+
 </div>
 
 ---
 
-<!-- Snake Animation -->
-## 🐍 Contribution Snake
+<!-- Spotify / Dev Quote Section -->
+## 💬 `> fortune | cowsay`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joko206/Joko206/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joko206/Joko206/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Joko206/Joko206/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
-<!-- Random Dev Quote -->
-## 💬 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" alt="Random Dev Quote" />
 </div>
 
 ---
 
 <!-- Connect Section -->
-## 🤝 Let's Connect!
+## 🌐 `> ssh connect@joko`
 
 <div align="center">
-  <a href="https://github.com/Joko206">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:jokosuprianto206@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/joko-suprianto">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/joko_suprianto">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
+
+<a href="https://github.com/Joko206"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+<a href="mailto:jokosuprianto206@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/joko-suprianto"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+<a href="https://instagram.com/joko_suprianto"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+<a href="https://wa.me/62"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" /></a>
+
+<br><br>
+
+<!-- Animated separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="95%">
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
+### 💚 Thanks for visiting! Let's build something amazing together!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&fontColor=00ff41" width="100%" />
+
 </div>
 
-<!-- ✨ Made with ❤️ by Joko Suprianto -->
+<!-- ✨ Made with 💚 by Joko Suprianto | @Joko206 -->
